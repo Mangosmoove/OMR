@@ -1,5 +1,4 @@
 # OMR System
-#### Trevor Hosek, Keegan Moore, Arinah Karim
 
 # How to Run Program
 ##### After cd-ing into the correct directory
